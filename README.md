@@ -1,4 +1,3 @@
-# adaptive_firewall
 # Adaptive Network Firewall
 ### A Hybrid Rule-Based and Behavioral Anomaly Detection Framework
 
